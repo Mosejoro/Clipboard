@@ -1,0 +1,63 @@
+.Fake{
+    position: absolute;
+}
+.Nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 150px;
+}
+.H1{
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+.P1{
+    font-size: 25px;
+    text-align: center;
+    color: grey;
+}
+.A1{
+background-color: hsl(171, 66%, 44%);
+color: white;
+border-radius: 20px;
+padding: 15px 40px 15px 40px;
+margin-bottom: 20px;
+border: transparent;
+
+}
+.A2{
+    background-color: hsl(233, 100%, 69%);
+color: white;
+border-radius: 20px;
+padding: 15px 40px 15px 40px;
+border: transparent;
+}
+.Tola{
+    padding-top: 80px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Funmi{
+    width: 300px;
+    height: auto;
+}
+#Div4{
+    padding: 50px 0 20px 0;
+}
+footer{
+    background-color:   hsl(201, 11%, 66%);
+    margin-top: 30px;
+}
+.link{
+    text-decoration: none;
+    color: grey;
+    padding: 20px 0 20px 0;
+    display: block;
+}
+.DivF{
+    width:70px;
+    padding: 0 10px 0 10px;
+}

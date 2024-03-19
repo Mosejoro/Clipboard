@@ -1,0 +1,229 @@
+body {     
+             font-family: 'Raleway', sans-serif;
+font-family: 'Satisfy', cursive;                                   
+}                                                                  
+                                                
+#Pic1{
+    width:100%;
+    position:absolute;
+}
+.Div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Nav1{
+    padding-top: 80px;
+}
+#Div2{
+    padding-top: 12px;
+    text-align: center;
+    padding-bottom: 12px;
+}
+#H1{
+    font-size: 30px;
+    font-weight: 6000;
+    color:slategray;
+}
+#P1{
+    font-weight: 600;
+    color:gray;
+    padding-bottom: 10px;
+}
+#A1{
+    background-color: green;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right:16px;
+    border-radius: 32px;
+    border-color: transparent;
+    list-style: none;
+    width: 70%;
+    margin-bottom:20px ;
+    color: white;
+    text-decoration:none;
+}
+#A2{
+    border-color: transparent;
+    background-color:blue;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 32px;
+    list-style: none;
+    color: white;
+    width: 70%;
+    text-decoration:none;
+}
+#Div3{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 24px;
+}
+#Pic2{
+    width:70%;
+    height:70%;
+    padding-right: 32px;
+}
+#Div4{
+    padding-right: 30px;
+    padding-left: 30px;
+
+}
+#Div4{
+    margin-bottom:50px;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+#Div5{
+    display: block;
+}
+footer {
+    background: #D3D3D3; 
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+#Pic3{
+    width:9%;
+    height:9%;
+    justify-content: center;
+    align-items: center;
+}
+#DivF{
+   margin-left: 30px;
+   text-decoration:none;
+}
+#link{
+    margin-bottom: 2px;
+    display: block;
+    text-decoration:none;
+    color: gray;
+}
+#Div41{
+    margin-bottom:10px;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+#Pic21{
+    width:50%;
+    height:50%;
+    justify-content: center;
+    align-items: center;
+}
+#Picss{
+    width:50%;
+    height:50%;
+    justify-content: center;
+    align-items: center;
+}
+#Div222{
+    padding-top: 12px;
+    text-align: center;
+    padding-bottom: 12px;
+    display: none;
+
+}
+@media screen and (min-width:601px) {
+    #A1{
+        background-color: green;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 9px;
+        padding-right:9px;
+        border-radius: 32px;
+        border-color: transparent;
+        list-style: none;
+        width: 200px;
+        margin-bottom:20px ;
+        height: auto;
+        color: white;
+        text-decoration:none;
+    }
+    #A2{
+        border-color: transparent;
+        background-color:blue;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 9px;
+        padding-right: 9px;
+        border-radius: 32px;
+        list-style: none;
+        color: white;
+        width: 200px;
+        height: auto;
+        text-decoration:none;
+    }   
+    .Div2{
+        padding-top: 12px;
+        text-align: center;
+        padding-bottom: 12px;
+        display: flex
+    }
+    #Pic21{
+        width: 60%;
+        height: auto;
+    }
+    .Div4{
+        display: flex;
+    }
+    .Div5{
+        display: flex;
+        flex-direction: row;
+    }
+    #Div41{
+        padding-right: 30px;
+    }
+    .Div6{
+        justify-content: left;
+        align-items: center;
+        display: flex;
+    }
+    #Div22{
+        padding-top: 12px;
+        text-align: center;
+        padding-bottom: 12px;
+        display: none;
+
+    }
+    #Div222{
+        padding-top: 12px;
+        text-align: center;
+        padding-bottom: 12px;
+        display: flex;
+        justify-content: left;
+        align-items: center;
+    
+    }
+
+    #link{
+        margin-bottom: 2px;
+        display: block;
+        text-decoration:none;
+        color: gray;
+        margin-right: 100px;
+    }
+    .DivA{
+        display: flex;
+        flex-direction: row;
+        text-align: left;
+    
+    }
+    #Divpic{
+        width: auto;
+        height: 15px;
+        padding-left: 10px;
+    }
+    #Pic21{
+        margin-left: -300px;
+    }
+    #Talis{
+        padding-left: 160px; text-align: left;
+    }
+}
